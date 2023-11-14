@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "id": "0f8a6de9-53dd-4ad9-bc03-c36556cf381d",
+      "name": "Product 1",
+      "price": 20,
+      "description": "Description for Product 1",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "d7bddb61-f949-4847-9c20-4d318f27cb53",
+      "name": "Product 2",
+      "price": 25,
+      "description": "Description for Product 2",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "9839c1c3-987c-4cd2-a287-6384bd2396b8",
+      "name": "Product 3",
+      "price": 30,
+      "description": "Description for Product 3",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "983d5349-964c-4bfd-82ab-830d266700a3",
+      "name": "Product 4",
+      "price": 35,
+      "description": "Description for Product 4",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "b6a872b1-1ee5-466d-aba8-4655f38b7ebf",
+      "name": "Product 5",
+      "price": 40,
+      "description": "Description for Product 5",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "6d1d5535-8086-4119-8215-87bba596f072",
+      "name": "Product 6",
+      "price": 45,
+      "description": "Description for Product 6",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "1b286b36-fbda-4e8d-938c-bc5904a58fb2",
+      "name": "Product 7",
+      "price": 50,
+      "description": "Description for Product 7",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "84ab6114-17da-47c0-98a3-528e5370d76b",
+      "name": "Product 8",
+      "price": 55,
+      "description": "Description for Product 8",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "2ddd928e-39ec-4549-a81c-d8da83d72502",
+      "name": "Product 9",
+      "price": 60,
+      "description": "Description for Product 9",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "ce85e725-19ab-40e1-b315-a3cfd21b1293",
+      "name": "Product 10",
+      "price": 65,
+      "description": "Description for Product 10",
+      "image": "https://picsum.photos/200/300"
+    }
+  ],
+  "basket": []
+}
