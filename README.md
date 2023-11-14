@@ -16,8 +16,8 @@ These instructions will help you get the project up and running on your local ma
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/valehasadli/blinkhub-ecommerce-json-server.git
+cd blinkhub-ecommerce-json-server
 npm install
 ```
 
