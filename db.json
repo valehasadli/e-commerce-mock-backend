@@ -71,5 +71,20 @@
       "image": "https://picsum.photos/200/300"
     }
   ],
-  "basket": []
+  "basket": [
+    {
+      "id": "0f8a6de9-53dd-4ad9-bc03-c36556cf381d",
+      "name": "Product 1",
+      "price": 20,
+      "description": "Description for Product 1",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": "d7bddb61-f949-4847-9c20-4d318f27cb53",
+      "name": "Product 2",
+      "price": 25,
+      "description": "Description for Product 2",
+      "image": "https://picsum.photos/200/300"
+    }
+  ]
 }
